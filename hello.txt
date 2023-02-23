@@ -7,3 +7,4 @@ hello git! hello hex!
 hello git! hello hex!
 hello git! hello hex!
 master change!
+hot-fix change!
